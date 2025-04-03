@@ -1,6 +1,5 @@
 # BinaryTree
-Binary Tree - Data Structures  -  BCS225
-Written in C++
+Binary Tree - Data Structures  -  BCS225 - Written in C++
 
 | Members        | Registration number |
 | -------------  | -------------       |
