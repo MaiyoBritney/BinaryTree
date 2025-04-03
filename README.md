@@ -2,6 +2,7 @@
 Binary Tree - Data Structures  -  BCS225
 
 MEMBERS
+| -------------  | -------------       |
 | BRITNEY MAIYO  | EDS/B/01-04063/2024 |
 | GLEN OMONDO    | COM/B/01-00102/2023 |
 | OLWICHI ANYONA | COM/B/01-00122/2022 |
